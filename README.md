@@ -1,0 +1,1 @@
+This repository demonstrates a common yet often overlooked error in HTML/JavaScript: attempting to access and modify the innerHTML of an element that doesn't exist in the DOM.  The `bug.html` file contains the erroneous code, which results in a `TypeError`. The `bugSolution.html` shows how to prevent the error using a conditional check.
